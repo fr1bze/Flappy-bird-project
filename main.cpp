@@ -111,10 +111,14 @@ int main()
 
 
     Sprite hero;
+    Sprite hero1;
+    Sprite hero2;
     Sprite background;
     Sprite background1;
     Sprite pipe;
     Sprite pipe1;
+    Sprite background_night;
+    Sprite background1_night;
     Sprite get_ready;
 
     pipe.setTexture(pipe_texture);
